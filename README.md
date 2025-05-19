@@ -1,3 +1,4 @@
 # first-repo
-this is my first repo
-Author Rishu Yadav
+this is my first repo.
+<br>
+Author - Rishu Yadav.
